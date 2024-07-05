@@ -3,7 +3,7 @@
  
 # Final Project Sanbercode
 
-[Deployed Project yang dapat diakses secara public] (final-project-production-15f7.up.railway.app)
+Deployed Project yang dapat diakses secara public : https://final-project-production-15f7.up.railway.app/api
 
 ### Product 
 
